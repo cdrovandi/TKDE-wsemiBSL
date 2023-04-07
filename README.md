@@ -1,8 +1,9 @@
 # TKDE-wsemiBSL
 Matlab code to support the paper "Transformations in Semi-Parametric Bayesian Synthetic 
-Likelihood" available at https://arxiv.org/abs/2007.01485
+Likelihood" available at https://arxiv.org/abs/2007.01485.  The code was predominantly written
+by first author Jacob Priddle.
 
-Each folder contains the code for a different example of the paper.  Start with the run files.
+Each folder contains the code for a different example of the paper.  Start with the run files.  
 
 Some of the files to support the visualisation of results have been obtained from freely available sources:
 
